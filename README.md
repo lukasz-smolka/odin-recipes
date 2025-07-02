@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple recipe page, created to review basic HTML principles, like lists, anchors, relative links.
